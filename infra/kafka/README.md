@@ -1,0 +1,1 @@
+https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.kafka_mt.xct_rgn.apac_lng.eng_dv.all&utm_term=kafka%20docker&creative=367853264096&device=c&placement=&gclid=CjwKCAjw4ZTqBRBZEiwAHHxpfvJT0rHvX3960sRkPd2bbn9Hi7gJr0SHZxg0oOHzjOUNNNUC2UQ4WBoC-SsQAvD_BwE
